@@ -1,5 +1,5 @@
 {
-  "name": "postcss-output-classnames",
+  "name": "postcss-process-classnames",
   "version": "1.0.2",
   "description": "make lookup",
   "main": "index.js",
